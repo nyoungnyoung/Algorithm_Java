@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BOJ_11660_구간합구하기2 {
+public class BOJ_11660_구간합구하기5 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
